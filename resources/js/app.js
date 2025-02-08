@@ -21,3 +21,4 @@ window.Echo.channel("chat")
 
 
 import './bootstrap';
+import '../../public/assets/js/helper';
